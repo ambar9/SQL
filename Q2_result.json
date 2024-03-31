@@ -1,0 +1,142 @@
+[
+  {
+    "company_name": "Deutsche Bank",
+    "skills": "sql",
+    "salary_year_avg": "119250.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Deutsche Bank",
+    "skills": "excel",
+    "salary_year_avg": "119250.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Deutsche Bank",
+    "skills": "visio",
+    "salary_year_avg": "119250.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Deutsche Bank",
+    "skills": "jira",
+    "salary_year_avg": "119250.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Deutsche Bank",
+    "skills": "confluence",
+    "salary_year_avg": "119250.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "ACA Group",
+    "skills": "excel",
+    "salary_year_avg": "118140.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "ACA Group",
+    "skills": "flow",
+    "salary_year_avg": "118140.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "ACA Group",
+    "skills": "power bi",
+    "salary_year_avg": "118140.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "ACA Group",
+    "skills": "sql",
+    "salary_year_avg": "118140.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "ACA Group",
+    "skills": "azure",
+    "salary_year_avg": "118140.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "word",
+    "salary_year_avg": "104550.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "powerpoint",
+    "salary_year_avg": "104550.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "excel",
+    "salary_year_avg": "104550.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Loop Health",
+    "skills": "sql",
+    "salary_year_avg": "93600.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Loop Health",
+    "skills": "python",
+    "salary_year_avg": "93600.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Loop Health",
+    "skills": "r",
+    "salary_year_avg": "93600.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Loop Health",
+    "skills": "sheets",
+    "salary_year_avg": "93600.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "sql",
+    "salary_year_avg": "89118.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "python",
+    "salary_year_avg": "89118.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  },
+  {
+    "company_name": "Clarivate",
+    "skills": "excel",
+    "salary_year_avg": "89118.0",
+    "job_title_short": "Data Analyst",
+    "job_schedule_type": "Full-time"
+  }
+]
