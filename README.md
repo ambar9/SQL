@@ -52,7 +52,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** While the data doesn't reveal specific companies, it highlights that opportunities exist in various sectors (e.g., IT, Manufacturing, Financial Services) based on the listed companies (Bosch Group, Deutsche Bank).
 - **Job Title Variety:** Similar to the national trend, there's a variety of job titles present (Data Analyst), indicating diverse specializations within data analysis.
 
-![Top Paying Roles](assets\Query1_Bar_chart.png)
+![Top Paying Roles](assets/Query1_Bar_chart.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts in India.*
 
 ### 2. Skills for Top Paying Jobs
@@ -91,7 +91,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Excel** Remains Relevant: While not as prevalent as SQL and Python, four data analyst positions still require Excel knowledge.
 - Other Skills Emerge: Skills like **visio**, **jira**, **confluence**, **flow**, **power bi**, **azure**,**word**, **powerpoint**,**r**, **sheets** appear in the data, highlighting a demand for broader technical abilities beyond the core three.
 
-![Top Paying Skills](assets\Query2_Bar_chart.png)
+![Top Paying Skills](assets/Query2_Bar_chart.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts.
 
 ### 3. In-Demand Skills for Data Analysts
@@ -122,7 +122,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 
 - **Data Viz Tools Gain Traction: Tableau (545) & Power BI (402)** showcase the growing focus on data visualization for clear communication.
 
-![Top Paying Skills Job Count](assets\Query3_Bar_chart.png)
+![Top Paying Skills Job Count](assets/Query3_Bar_chart.png)
 *Bar graph visualizing of the demand for the top 5 skills in data analyst job postings.
 
 ### 4. Skills Based on Salary
@@ -151,7 +151,7 @@ Here's a breakdown of the results for Average Salary by Skills for Data Analysts
 
 - **Automation & Cloud Gain Traction: Airflow** highlights a growing focus on data pipeline automation, while **Databricks** suggests the rise of cloud-based analytics. Cloud skills remain valuable.
 
-![Average Salary by Skills.](assets\Query4_Bar_chart.png)
+![Average Salary by Skills.](assets/Query4_Bar_chart.png)
 *Bar graph visualizing of the Average Salary by Skills in data analyst job postings.
 
 ### 5. Most Optimal Skills to Learn
